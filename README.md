@@ -1,0 +1,1 @@
+In order to share my love for cooking with the world, I've collected and documented multiple recipes. Some of these recipes are included in this project.
