@@ -9,21 +9,57 @@
 img{
     width: 600px;
     height: auto;
+    border-radius: 16px;
 }
 
 div.image{
     display: flex;
     justify-content: center;
+    width: auto;
 }
 
 div.section{
     font-family: Arial, sans-serif;
-    font-weight: bold;
     color: black;
     font-size: larger;
+    width: 75%;
+    margin: auto;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    background-color: aqua;
+    padding: 16px;
+    border-radius: 16px;
+    border: 8px solid teal;
 }
 
 div.section .section-body{
-    font-size: medium;
+    font-size: small;
     font-weight: 100;
+    padding: 0px;
+}
+
+.title{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+ul{
+    padding: 0px 16px;
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
+
+ol{
+    padding: 0px 16px;
+    margin-top: 8px;
+    margin-bottom: 0px;
+
+}
+
+p{
+    padding: 0px 8px;
+    margin-top: 8px;
+    margin-bottom: 0px;
 }
